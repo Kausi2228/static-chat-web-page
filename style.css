@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.total{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+}
+.heading{
+    color: white;
+    text-align: center;
+    background-color: #323f4b;
+    font-size: 50px;
+    font-family:'Roboto', sans-serif;
+    background-size: cover;
+}
+.chats{
+    color: white;
+    font-family:'Roboto', sans-serif;
+}
+
+.right{
+    text-align: right;
+    background-color: #47a3f3;
+    font-size: 30px;
+    font-family:'Roboto', sans-serif;
+
+}
+.left{
+    text-align: left;
+    background-color: #52606d;
+    font-size: 30px;
+    font-family:'Roboto', sans-serif;
+
+}
